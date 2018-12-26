@@ -1,6 +1,7 @@
 ''' This is the main file. '''
 
-def main() {
+def main():
     ''' Stuff goes here. '''
     print('Hello World!')
-}
+
+main()
